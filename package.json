@@ -1,8 +1,9 @@
 {
-  "name": "andrewjcornell.com",
+  "name": "andrew-cornell.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://www.andrewjcornell.com",
+  "license": "MIT",
+  "homepage": "http://www.andrew-cornell.com",
   "dependencies": {
     "aos": "^2.2.0",
     "gh-pages": "^1.1.0",

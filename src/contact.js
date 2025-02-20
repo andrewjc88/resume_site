@@ -1,5 +1,5 @@
 import React from 'react';
-import Resume from './downloads/Andrew Cornell UX Engineer Resume.pdf';
+import Resume from './downloads/Andrew Cornell Web Engineer Resume.pdf';
 import QRcode from './img/contactQR.png'
 
 const Contact = () => {
