@@ -36,9 +36,9 @@ class App extends Component {
             <h1>About</h1>
             <hr/>
             <div className='AboutCont'>
-              <img src={Me} className='Selfie'  alt="me"/>
+              <img src={Me} className='A photo of myself'  alt="me"/>
               <p className="AboutMe">
-                Front-end Engineer with years of experience and a strong background in design. JavaScript for breakfast, lunch, and dinner. An ardent fan of all things React and Node. Let's build something great together!
+                Senior Full Stack Engineer eight with years of experience with React and a strong background in design. I love JavaScript for breakfast, lunch, and dinner. An ardent fan of all things Open Source. Let's build something great together!
               </p>
             </div>
           </div>
